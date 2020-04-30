@@ -22,7 +22,7 @@ Tecnologias utilizadas:
     
     - yarn
     
- P.S. As 3 linhas acima, vão, respectivament, clonar o repositório, entrar na pasta do projeto e fazer a instalação das dependências.
+ P.S. As 3 linhas acima, vão, respectivamente, clonar o repositório, entrar na pasta do projeto e fazer a instalação das dependências.
        
     
   
